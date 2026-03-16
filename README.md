@@ -1,2 +1,2 @@
 # conversor-quilos-libras
-Um algoritmo contendo um conversor de quilos para libras ou libras para quilos.
+Um algoritmo via Terminal contendo um conversor de quilos para libras ou libras para quilos.
