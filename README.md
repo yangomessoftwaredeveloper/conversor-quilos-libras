@@ -1,5 +1,5 @@
 
-Um algoritmo via Terminal contendo um conversor de quilos para libras ou libras para quilos.
+Um projeto java via Terminal contendo um conversor de quilos para libras ou libras para quilos.
 
 Tecnologia usada: Java
 
